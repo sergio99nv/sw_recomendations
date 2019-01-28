@@ -1,4 +1,4 @@
-# service worker recommendations from Alexander Pope
+# Service worker recommendations from Alexander Pope
  
 - use async await
 - register the service worker in load event
