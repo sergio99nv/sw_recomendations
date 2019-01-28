@@ -1,4 +1,5 @@
 # Service worker recommendations from Alexander Pope
+  [for more information](https://www.youtube.com/watch?v=CPP9ew4Co0M)
  
 - use async await
 - register the service worker in load event
